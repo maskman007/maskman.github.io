@@ -1,0 +1,32 @@
+Package: iosmods.com.pubgm
+Version: 0.13.0
+Architecture: iphoneos-arm
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/PUBG_ALL_VERSION.deb
+Size: 74254
+MD5sum: d29501244c30f09fd5482e832bf9f3f0
+SHA1: 30c7066359ba86b4297e2b1b70afe32facbf7a23
+SHA256: d2db8c25f50d997b561cb23c3bc257ff5fe48074cccedb9a214dfb73ddc169ad
+Section: Tweaks
+Homepage: https://www.iosmods.com
+Description: PUBGM 0.12 mod menu made by MaskMan for https://www.iosmods.com
+Author: MaskMan
+Name: PUBGM 0.13.0_ALL
+
+Package: iosmods.com.pubgm
+Version: 0.13.0
+Architecture: iphoneos-arm
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/PUBG_UNCOVER.deb
+Size: 74192
+MD5sum: 0228d76b91c4a056cba21ecfba95b8a6
+SHA1: ef4e1ddd1535a93a9f0517623a11666b8f0d6340
+SHA256: 14f347962551aae705f49aa0c8f20010686170da1ffcec36c3d35b300d9a2f1a
+Section: Tweaks
+Homepage: https://www.iosmods.com
+Description: PUBGM 0.12 mod menu made by MaskMan for https://www.iosmods.com
+Author: MaskMan
+Name: PUBGM 0.13.0_UNCOVER
+
